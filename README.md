@@ -1,0 +1,1 @@
+# qa-test-task-3s-widget
